@@ -65,4 +65,4 @@ Frontend uygulaması, aşağıdaki uç noktalar aracılığıyla backend ile ile
 
 ## İletişim
 
-Herhangi bir sorunuz veya talebiniz için benimle [aleyna.yildizli@gmail.com](mailto:aleyna.yildizli@gmail.com) adresinden iletişime geçebilirsiniz.
+Herhangi bir sorunuz veya talebiniz için benimle [aleynayildizli@gmail.com](mailto:aleynayildizli@gmail.com) adresinden iletişime geçebilirsiniz.
