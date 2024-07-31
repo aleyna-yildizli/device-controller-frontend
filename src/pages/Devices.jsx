@@ -30,7 +30,7 @@ const Devices = () => {
   };
 
   const handleEditShow = (device) => {
-    console.log("Selected device:", device); // Ekleyin
+    console.log("Selected device:", device);
     setIsEdit(true);
     dispatch(setSelectedDevice(device));
     setShow(true);

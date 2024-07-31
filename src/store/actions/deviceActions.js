@@ -31,7 +31,7 @@ export const getDevices = () => async (dispatch) => {
 
 export const addDevice = (device) => async (dispatch) => {
   try {
-    console.log('API Object:', API); // Burada API nesnesini kontrol edin
+   // console.log('API Object:', API);
     const { data } = await API.post('/devices', device);
     dispatch({
       type: ADD_DEVICE,
